@@ -1,8 +1,9 @@
 field,display_name,btn,hidden,sort_name
-date-range,Date Range
+date-range,Date Range,,,date range
 state,State,true
 university,University,true
 reponame,Repository Name,true
 pubtitle,pubtitle
 titlesincollection,titlesincollection
 agency,agency,true
+numberofitems,number of items,,,number of items

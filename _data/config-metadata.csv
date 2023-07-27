@@ -1,0 +1,19 @@
+field,display_name,browse_link,external_link
+title,Title,
+date-range,Date Range,
+description,Description,
+state,state,true
+university,university,true
+repo-y-or-no,repo-y-or-no
+reponame,reponame
+filename,filename,,true
+pubtitle,pubtitle
+titlesincollection,titlesincollection
+agency,agency,true
+numberofitems,numberofitems
+date-range,date-range
+software,software
+imagefile?,imagefile?
+pdf?,pdf?
+type,type
+format,format

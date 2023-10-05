@@ -27,7 +27,7 @@ tagline: Just 5 states right now
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection of collections -- from a collaboratively managed spreadsheet"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: David Luftig, Devin Becker, AgNIC
 
 ##########
 # COLLECTION SETTINGS

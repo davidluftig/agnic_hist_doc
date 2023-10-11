@@ -46,8 +46,7 @@ metadata-csv: /assets/agpubrepos.csv
 organization-name: "AgNIC"
 organization-link: agnic.org
 organization-logo-banner: https://agnic.org/wp-content/uploads/2022/11/AgNIC_SunflowersWPHero.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+organization-logo-nav: https://agnic.org/wp-content/uploads/2022/11/AgNIC_SunflowersWPHero.png
 
 ##########
 # GOOGLE SERVICES [optional!]

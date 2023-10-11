@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: AgNIC Historic Publication Database Search {{BETA}}
+title: AgNIC Historic Publication Search {{BETA}}
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: This beta version only contains several states at the moment.
+tagline: This beta version only contains several states 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection of collections -- from a collaboratively managed spreadsheet"

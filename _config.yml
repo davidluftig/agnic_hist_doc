@@ -44,9 +44,9 @@ metadata-csv: /assets/agpubrepos.csv
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "AgNIC"
-organization-link: https://agnic.org
-organization-logo-banner: https://agnic.org/wp-content/uploads/2022/05/cropped-AgNIC_site_icon-180x180.png
-organization-logo-nav: https://agnic.org/wp-content/uploads/2022/05/cropped-AgNIC_site_icon-180x180.png
+organization-link: "https://agnic.org"
+organization-logo-banner: "https://agnic.org/wp-content/uploads/2022/05/cropped-AgNIC_site_icon-180x180.png"
+organization-logo-nav: "https://agnic.org/wp-content/uploads/2022/05/cropped-AgNIC_site_icon-180x180.png"
 
 ##########
 # GOOGLE SERVICES [optional!]

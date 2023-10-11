@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: AgNIC Historic Publication (Extension) Database Search {{BETA}}
+title: AgNIC Historic Publication Database Search {{BETA}}
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: This beta version only contains several states at the moment.
 # description appears in meta tags and other locations
@@ -44,7 +44,7 @@ metadata-csv: /assets/agpubrepos.csv
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "AgNIC"
-organization-link: agnic.org
+organization-link: https://agnic.org
 organization-logo-banner: https://agnic.org/wp-content/uploads/2022/11/AgNIC_SunflowersWPHero.png
 organization-logo-nav: https://agnic.org/wp-content/uploads/2022/11/AgNIC_SunflowersWPHero.png
 

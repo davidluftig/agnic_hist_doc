@@ -45,8 +45,8 @@ metadata-csv: /assets/agpubrepos.csv
 #
 organization-name: "AgNIC"
 organization-link: https://agnic.org
-organization-logo-banner: https://github.com/davidluftig/agnic_hist_doc/blob/main/objects/agnic_logo.jpg
-organization-logo-nav: https://github.com/davidluftig/agnic_hist_doc/blob/main/objects/agnic_logo.jpg
+organization-logo-banner: https://agnic.org/wp-content/uploads/2022/05/cropped-AgNIC_site_icon-180x180.png
+organization-logo-nav: https://agnic.org/wp-content/uploads/2022/05/cropped-AgNIC_site_icon-180x180.png
 
 ##########
 # GOOGLE SERVICES [optional!]

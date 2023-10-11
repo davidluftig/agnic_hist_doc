@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: AgPubRepos Test
+title: AgNIC Historic Publication (Extension) Database Search {{BETA}}
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Just 5 states right now
+tagline: This beta version only contains several states at the moment.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection of collections -- from a collaboratively managed spreadsheet"
@@ -43,9 +43,9 @@ metadata-csv: /assets/agpubrepos.csv
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-name: "AgNIC"
+organization-link: agnic.org
+organization-logo-banner: https://agnic.org/wp-content/uploads/2022/11/AgNIC_SunflowersWPHero.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 

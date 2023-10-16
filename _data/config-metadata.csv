@@ -16,5 +16,5 @@ imagefile?,imagefile?
 pdf?,pdf?
 type,type
 format,format
-subject,subject
+subject,subject,true
 title,title
